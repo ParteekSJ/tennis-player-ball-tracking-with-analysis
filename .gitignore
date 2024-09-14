@@ -5,4 +5,4 @@ insights/
 *.pt
 *.pth
 __pycache__/
-
+runs/
