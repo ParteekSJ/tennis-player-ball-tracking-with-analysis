@@ -1,4 +1,4 @@
 ## Tennis Tracking & Analysis System Demo
 
-Here's a demonstration of the model on the AeBAD dataset:
+Here's a demonstration:
 ![Demo Video](output_videos/final_output.gif)
